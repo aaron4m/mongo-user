@@ -13,7 +13,7 @@
     "homepage": "https://github.com/aaron4m/zf2-mongouser",
     "require": {
         "php": ">=5.3.3",
-        "zf-commons/zfc-user": "dev-master",
+        "zf-commons/zfc-user": "0.*",
         "aaron4m/zf2-mongo": "dev-master"
     }
 }
