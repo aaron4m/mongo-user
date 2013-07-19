@@ -1,0 +1,30 @@
+{
+    "name": "aaron4m/zf2-mongouser",
+    "description": "Replacement mapper for zfcUser to interface seamlessly with MongoDb",
+    "keywords": [
+        "framework",
+        "zf2",
+        "mongo",
+        "mongodb",
+        "zfcommons",
+        "zfcuser",
+        "dbabstract"
+    ],
+    "homepage": "https://github.com/aaron4m/zf2-mongouser",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-authentication": "~2.1",
+        "zendframework/zend-crypt": "~2.1",
+        "zendframework/zend-form": "~2.1",
+        "zendframework/zend-inputfilter": "~2.1",
+        "zendframework/zend-loader": "~2.1",
+        "zendframework/zend-modulemanager": "~2.1",
+        "zendframework/zend-mvc": "~2.1",
+        "zendframework/zend-servicemanager": "~2.1",
+        "zendframework/zend-stdlib": "~2.1",
+        "zendframework/zend-validator": "~2.1",
+        "zendframework/zend-view": "~2.1",
+        "zf-commons/zfc-user": "dev-master",
+        "aaron4m/zf2-mongo": "dev-master"
+    }
+}
