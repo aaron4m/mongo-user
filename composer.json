@@ -1,5 +1,5 @@
 {
-    "name": "aaron4m/zf2-mongouser",
+    "name": "aaron4m/mongo-user",
     "description": "Replacement mapper for zfcUser to interface seamlessly with MongoDb",
     "keywords": [
         "framework",
@@ -10,11 +10,11 @@
         "zfcuser",
         "dbabstract"
     ],
-    "homepage": "https://github.com/aaron4m/zf2-mongouser",
+    "homepage": "https://github.com/aaron4m/mongo-user",
     "require": {
         "php": ">=5.3.3",
         "zf-commons/zfc-user": "0.*",
-        "aaron4m/zf2-mongo": "0.*"
+        "aaron4m/mongo": "0.*"
     },
     "autoload": {
         "psr-0": {
